@@ -19,7 +19,7 @@ The page includes:
 
 ## Live Demo
 
-_To be added_
+https://artemyakhno.github.io/landing_page_air/
 
 ## Figma Design
 
