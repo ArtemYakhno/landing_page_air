@@ -1,13 +1,13 @@
-# Landing Page — AIR
+# 💻 Landing Page — AIR
 
 Modern and fully responsive landing page for the creative agency "AIR" with a focus on clean design, interactivity, and user experience.
 
-## About the Project
+## 📌 About the Project
 
-This project represents a complete landing page for the AIR agency.
-It is designed to showcase the agency's services, expertise, and advantages in a structured and visually engaging way.
+This project represents a complete landing page for the AIR creative agency.  
+It is designed to showcase the agency’s services, expertise, and value proposition in a structured and visually engaging way.
 
-The page includes:
+### The page includes:
 - Home Screen,
 - About Us,
 - Our Expertise,
@@ -15,64 +15,77 @@ The page includes:
 - Testimonials,
 - Banner,
 - Contact Us,
-- Mobile burger menu.
+- mobile burger menu.
 
-## Live Demo
+## 🌐 Live Demo
 
-https://artemyakhno.github.io/landing_page_air/
+👉 [View site](https://artemyakhno.github.io/landing_page_air/)
 
-## Figma Design
+## 🎨 Design
 
-https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=qcD4PxbP0lkhEEEc-0
+👉 [Figma](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=qcD4PxbP0lkhEEEc-0)
 
-## Technology Stack
+## 🚀 Technology Stack
 
-### Core
-- HTML5
-- SCSS
-- JavaScript (ES6)
+### Structure
+- **HTML5** — semantic and accessible markup
 
-### Libraries
-- Swiper.js (sliders)
-- Anime.js (animations)
-- Notyf (notifications)
-- Intersection Observer API (scroll-triggered effects)
+### Styling
+- **SCSS** — modular styles with variables and nesting  
+- **BEM methodology** — consistent and maintainable class naming
 
-### Others
-- localStorage (language preference)
-- Lazy loading for images
+### Interactivity
+- **JavaScript (ES6)** — UI logic and interactions
+- **Swiper.js** — sliders and carousels
+- **Anime.js** — animations on load, scroll, and interaction
+- **Intersection Observer API** — scroll-triggered effects
+- **Notyf** — form validation notifications
 
-## Features
+### Additional
+- **localStorage** — language preference (UA / EN)
+- **Lazy loading** — optimized image loading
 
-- Adaptive and responsive design for all devices
-- Multilingual support (UA/EN) with localStorage
-- Interactive slider using Swiper.js
-- Dynamic animations with Anime.js
-- Contact form validation with Notyf notifications
-- Mobile "burger" menu for navigation
-- SCSS structured with BEM methodology
-- Smooth scrolling to page sections
+### Development & Tooling
+- **Parcel** — development server and build tool
+- **ESLint** — code quality and consistency
 
-## Development and Deployment
-- Parcel
-- ESLint
+## ✨ Features
 
-## Getting Started
+- Fully adaptive and responsive design for all screen sizes
+- Multilingual support (UA / EN) with saved user preference
+- Interactive sliders powered by Swiper.js
+- Smooth and expressive animations using Anime.js
+- Client-side contact form validation with visual feedback
+- Mobile-friendly burger menu navigation
+- SCSS architecture structured with BEM
+- Smooth scrolling between page sections
 
-Clone the repository:
-git clone https://github.com/your-username/landing-page-air.git
-cd landing-page-air
+## ⚙️ Installation and Setup
 
-Install dependencies:
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/landing_page_nothing.git
+```
+```bash
+cd landing-page-nothing
+```
+
+2. Install dependencies:
+
+```bash
 npm install
+```
 or
+```bash
 yarn install
+```
 
-Run the project locally:
+
+3. Run the project locally:
+```bash
 npm start
+```
 or
+```bash
 yarn start
-
-## Author
-
-Artem Yakhno
+```
